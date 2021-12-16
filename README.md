@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Alt text](https://raw.githubusercontent.com/romain22222/romain22222/output/github-contribution-grid-snake.svg)
 <!--
 **romain22222/romain22222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
