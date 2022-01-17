@@ -3,11 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
-
-JavaScript   1 hr 46 mins    ████████████▒░░░░░░░░░░░░   49.09 % 
-TypeScript   1 hr 25 mins    ██████████░░░░░░░░░░░░░░░   39.38 % 
-JSON         25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <!--
