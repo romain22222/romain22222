@@ -3,10 +3,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 16 February, 2022 - To: 23 February, 2022
+From: 19 February, 2022 - To: 26 February, 2022
 
-C            2 hrs 44 mins   ██████████████████████▓░░   90.80 % 
-TypeScript   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+JavaScript   2 hrs 51 mins   ████████████▓░░░░░░░░░░░░   51.18 % 
+TypeScript   1 hr 40 mins    ███████▓░░░░░░░░░░░░░░░░░   30.07 % 
+JSON         43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+yarn.lock    11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 <!--END_SECTION:waka-->
 <!--
