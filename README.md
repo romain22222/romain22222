@@ -2,15 +2,18 @@
 ![Alt text](https://raw.githubusercontent.com/romain22222/romain22222/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-JavaScript   2 hrs 51 mins   ████████████▓░░░░░░░░░░░░   51.18 % 
-TypeScript   1 hr 40 mins    ███████▓░░░░░░░░░░░░░░░░░   30.07 % 
-JSON         43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-yarn.lock    11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+JavaScript   3 hrs 30 mins   ██████████████░░░░░░░░░░░   55.71 %
+TypeScript   1 hr 44 mins    ███████░░░░░░░░░░░░░░░░░░   27.51 %
+JSON         43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+yarn.lock    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
+
 <!--END_SECTION:waka-->
 <!--
 **romain22222/romain22222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
