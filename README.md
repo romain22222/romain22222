@@ -4,14 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2022 - To: 01 March 2022
+From: 23 February 2022 - To: 02 March 2022
 
-JavaScript   3 hrs 30 mins   ██████████████▒░░░░░░░░░░   57.69 %
-TypeScript   1 hr 30 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
-JSON         43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-yarn.lock    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+JavaScript       4 hrs 25 mins   █████████████░░░░░░░░░░░░   51.36 %
+TypeScript       2 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   34.53 %
+JSON             52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+yarn.lock        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Bash             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
