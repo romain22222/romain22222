@@ -4,13 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2022 - To: 12 March 2022
+From: 07 March 2022 - To: 14 March 2022
 
-C                2 hrs 40 mins   ████████████████████████▓   98.18 %
-ObjectiveC       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C                2 hrs 41 mins   ███████████████░░░░░░░░░░   60.05 %
+JavaScript       59 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+TypeScript       36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+JSON             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+yarn.lock        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+ObjectiveC       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
