@@ -4,12 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2022 - To: 08 April 2022
+From: 02 April 2022 - To: 09 April 2022
 
-TypeScript   12 hrs 24 mins  ████████████████████░░░░░   80.18 %
-Python       1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-JavaScript   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-JSON         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+TypeScript   10 hrs 28 mins  ████████████████████░░░░░   79.36 %
+Python       1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+JavaScript   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 yarn.lock    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
