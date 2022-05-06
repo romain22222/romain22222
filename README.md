@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2022 - To: 04 May 2022
+From: 28 April 2022 - To: 05 May 2022
 
 TypeScript       2 hrs 15 mins   ███████████████████▓░░░░░   78.91 %
 JavaScript       30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
