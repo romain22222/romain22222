@@ -4,7 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 24 May 2022 - To: 31 May 2022
+
+TypeScript   25 mins         ██████████████▓░░░░░░░░░░   58.80 %
+JSON         9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+yarn.lock    8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
 ```
 
 <!--END_SECTION:waka-->
