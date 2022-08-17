@@ -4,14 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 August 2022 - To: 15 August 2022
+From: 09 August 2022 - To: 16 August 2022
 
-TypeScript       15 hrs 59 mins  █████████████████▒░░░░░░░   69.38 %
-TOML             3 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-JSON             1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-JavaScript       1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Docker           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Markdown         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+TypeScript       18 hrs 25 mins  █████████████████▓░░░░░░░   70.30 %
+TOML             3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+JSON             2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+JavaScript       1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Docker           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Markdown         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
