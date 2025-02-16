@@ -1,6 +1,4 @@
 ### Hi there 👋
-![Alt text](https://raw.githubusercontent.com/romain22222/romain22222/output/github-contribution-grid-snake.svg)
-
 <!--START_SECTION:waka-->
 
 ```txt
